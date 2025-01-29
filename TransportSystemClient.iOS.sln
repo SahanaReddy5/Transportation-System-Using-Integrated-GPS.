@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportSystemClient.iOS", "TransportSystemClient.iOS.csproj", "{39296038-EDEA-42C7-BC99-0DB8F0865A63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39296038-EDEA-42C7-BC99-0DB8F0865A63}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{39296038-EDEA-42C7-BC99-0DB8F0865A63}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{39296038-EDEA-42C7-BC99-0DB8F0865A63}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{39296038-EDEA-42C7-BC99-0DB8F0865A63}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{39296038-EDEA-42C7-BC99-0DB8F0865A63}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{39296038-EDEA-42C7-BC99-0DB8F0865A63}.Debug|iPhone.Build.0 = Debug|iPhone
+		{39296038-EDEA-42C7-BC99-0DB8F0865A63}.Release|iPhone.ActiveCfg = Release|iPhone
+		{39296038-EDEA-42C7-BC99-0DB8F0865A63}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {748DDAB1-9EA1-42A9-BD82-B407D0BA8C7B}
+	EndGlobalSection
+EndGlobal
